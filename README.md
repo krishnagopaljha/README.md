@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on mostly cyber security forcused projects.  
+👯 I’m looking to collaborate on secure technologies and data protection.  
+🤝 I’m looking for help with AI/ML implementation in my cyber security.  
+🌱 I’m currently learning AI/ML and secure coding practices.  
+💬 Ask me about web security, encryption, or cybersecurity best practices.  
+⚡ Fun fact: The term "hacker" originally referred to skilled programmers before gaining its modern meaning.
+
 
 
 ## 🌐 Socials:
